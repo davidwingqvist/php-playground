@@ -75,8 +75,10 @@
       {
         echo "PLAYER WON!";
       }
-    }
 
+      echo "<br>" . "<br>";
+      echo "Current date: " . date("Y-m-d H:i:s");
+    }
 
     ?>
   </body>
