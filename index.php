@@ -17,5 +17,15 @@
       <button >Perform</button>
     </form>
     <br/>
+
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+
+    <text>Display All Games!</text>
+    <form action="includes/selectHandler.inc.php" method="post">
+      <button>Perform</button>
+    </form>
   </body>
 </html>
